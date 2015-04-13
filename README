@@ -1,4 +1,4 @@
-1) To compile use maven 3. just issue mvn clean install and wait for tests to complete. To build the java docs issue mvn site
+1) To compile use maven 3. just issue mvn clean install and wait for tests to complete. To build the java docs issue mvn site. If python isnt installed or you are faced any firewall issues then make sure that the site directory in target is available and navigate to index.html otherwise just run  python -m SimpleHTTPServer in target/site directory and navigate to http://$IP:8000/apidocs/index.html
 
 2)Test will test the basic algorithms for use case default and termination and cancellation using two different strategies. Is important to recall than processing starts when all messages are already queue in the scheduler for easy tracking and predictibility
 

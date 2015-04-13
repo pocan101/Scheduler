@@ -1,0 +1,12 @@
+com.personal.builder
+com.personal.client
+com.personal.debug
+com.personal.examples
+com.personal.exceptions
+com.personal.gateway
+com.personal.impl
+com.personal.interfaces
+com.personal.resource
+com.personal.scheduler
+com.personal.scheduler.data
+com.personal.scheduler.strategies
